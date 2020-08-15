@@ -1,0 +1,7 @@
+2 2
+2 1 N
+FLFFRF
+0 0 W
+FRFRFRLF
+2 0 S
+RLRF
